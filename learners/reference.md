@@ -2,7 +2,5 @@
 title: 'Reference'
 ---
 
-## Glossary
-
-This is a placeholder file. Please add content here. 
+Visit the reference pages of [the individual lessons in this workshop](../index.md#workshop-overview).
 
